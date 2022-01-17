@@ -1,0 +1,11 @@
+.homePage {
+	display: flex;
+	justify-content: center;
+	margin-top: 100px;
+}
+
+.commentForm {
+	display: flex;
+	flex-wrap: wrap;
+	width: 250px;
+}
